@@ -1,0 +1,17 @@
+$rojo: #ff0000; 
+.caja2 {
+    width: 200px;
+    background: rosybrown;
+    border: 1px solid black;
+    height: 200px;
+
+    .cajita {
+
+        background: palevioletred; 
+        color: $rojo;
+    }
+
+
+
+
+}

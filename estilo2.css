@@ -1,0 +1,12 @@
+.caja2 {
+  width: 200px;
+  background: rosybrown;
+  border: 1px solid black;
+  height: 200px;
+}
+.caja2 .cajita {
+  background: palevioletred;
+  color: #ff0000;
+}
+
+/*# sourceMappingURL=estilo2.css.map */
